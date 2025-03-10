@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sonam
-- 👀 I’m love coding
+- 👀 I love coding
 - 🌱 I’m currently learning some new projects to be worked on
 
 
